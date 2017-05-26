@@ -1,0 +1,71 @@
+{
+	"Tramos": [
+		{
+			"Tramo": [{
+				"Empresa": "Aguas Andinas",
+				"Color": "#0094FF",
+				"Icono": "1111.png",
+				"Corte": false,
+				"Tipo": "Angostamiento de Via",
+				"Descripcion": "Reparacion de matriz principal",
+				"Puntos": [{
+						"lat": -18.476568,
+						"lng": -70.311672
+					},
+					{
+						"lat": -18.477348,
+						"lng": -70.310777
+
+					}
+				]
+			}]
+		},
+		{
+			"Tramo": [{
+				"Empresa": "Carabineros",
+				"Color": "#007F0E",
+				"Icono": "2222.png",
+				"Corte": true,
+				"Tipo": "Corte de Via",
+				"Descripcion": "Evento Privado",
+				"Puntos": [{
+						"lat": -18.477327,
+						"lng": -70.320058
+					},
+					{
+						"lat": -18.478192,
+						"lng": -70.321025
+
+					},
+					{
+						"lat": -18.477332,
+						"lng": -70.321895
+					},
+					{
+						"lat": -18.478385,
+						"lng": -70.323149
+					}
+				]
+			}]
+		},
+		{
+			"Tramo": [{
+				"Empresa": "Municipalidad",
+				"Color": "#00137F",
+				"Icono": "3333.png",
+				"Corte": true,
+				"Tipo": "Corte de Via",
+				"Descripcion": "Servicios Comunitarios",
+				"Puntos": [{
+						"lat": -18.477327,
+						"lng": -70.320058
+					},
+					{
+						"lat": -18.478385,
+						"lng": -70.323149
+					}
+				]
+			}]
+		}
+	]
+}
